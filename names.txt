@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,chen2744,Chen,Yaqin
 employee,rsong55,Song,Runlin
